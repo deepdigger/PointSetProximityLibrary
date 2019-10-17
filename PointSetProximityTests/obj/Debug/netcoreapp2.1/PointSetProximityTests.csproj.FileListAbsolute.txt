@@ -1,0 +1,17 @@
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityTests\bin\Debug\netcoreapp2.1\PointSetProximityTests.deps.json
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityTests\bin\Debug\netcoreapp2.1\PointSetProximityTests.runtimeconfig.json
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityTests\bin\Debug\netcoreapp2.1\PointSetProximityTests.runtimeconfig.dev.json
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityTests\bin\Debug\netcoreapp2.1\PointSetProximityTests.dll
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityTests\bin\Debug\netcoreapp2.1\PointSetProximityTests.pdb
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityTests\bin\Debug\netcoreapp2.1\PointSetProximityLibray.dll
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityTests\bin\Debug\netcoreapp2.1\PointSetProximityLibray.pdb
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityTests\obj\Debug\netcoreapp2.1\PointSetProximityTests.csprojAssemblyReference.cache
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityTests\obj\Debug\netcoreapp2.1\PointSetProximityTests.csproj.CoreCompileInputs.cache
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityTests\obj\Debug\netcoreapp2.1\PointSetProximityTests.AssemblyInfoInputs.cache
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityTests\obj\Debug\netcoreapp2.1\PointSetProximityTests.AssemblyInfo.cs
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityTests\obj\Debug\netcoreapp2.1\PointSetProximityTests.csproj.CopyComplete
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityTests\obj\Debug\netcoreapp2.1\PointSetProximityTests.dll
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityTests\obj\Debug\netcoreapp2.1\PointSetProximityTests.pdb

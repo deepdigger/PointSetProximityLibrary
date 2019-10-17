@@ -1,0 +1,8 @@
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityLibray\bin\Debug\netcoreapp2.1\PointSetProximityLibray.deps.json
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityLibray\bin\Debug\netcoreapp2.1\PointSetProximityLibray.dll
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityLibray\bin\Debug\netcoreapp2.1\PointSetProximityLibray.pdb
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityLibray\obj\Debug\netcoreapp2.1\PointSetProximityLibray.csproj.CoreCompileInputs.cache
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityLibray\obj\Debug\netcoreapp2.1\PointSetProximityLibray.AssemblyInfoInputs.cache
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityLibray\obj\Debug\netcoreapp2.1\PointSetProximityLibray.AssemblyInfo.cs
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityLibray\obj\Debug\netcoreapp2.1\PointSetProximityLibray.dll
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityLibray\obj\Debug\netcoreapp2.1\PointSetProximityLibray.pdb

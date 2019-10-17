@@ -1,0 +1,9 @@
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityLibray\bin\Debug\netstandard2.0\PointSetProximityLibray.deps.json
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityLibray\bin\Debug\netstandard2.0\PointSetProximityLibray.dll
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityLibray\bin\Debug\netstandard2.0\PointSetProximityLibray.pdb
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityLibray\obj\Debug\netstandard2.0\PointSetProximityLibray.csprojAssemblyReference.cache
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityLibray\obj\Debug\netstandard2.0\PointSetProximityLibray.csproj.CoreCompileInputs.cache
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityLibray\obj\Debug\netstandard2.0\PointSetProximityLibray.AssemblyInfoInputs.cache
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityLibray\obj\Debug\netstandard2.0\PointSetProximityLibray.AssemblyInfo.cs
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityLibray\obj\Debug\netstandard2.0\PointSetProximityLibray.dll
+C:\Users\hreichle\source\repos\PointSetProximityLibray\PointSetProximityLibray\obj\Debug\netstandard2.0\PointSetProximityLibray.pdb
